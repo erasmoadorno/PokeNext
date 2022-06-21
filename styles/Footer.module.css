@@ -1,0 +1,14 @@
+.footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    display: flexbox;
+    padding: 35px;
+   
+    
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+}
+

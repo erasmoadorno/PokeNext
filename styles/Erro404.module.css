@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'PokemonHollow';
+    src: url(../asset/fonts/pokemon/Pokemon\ Hollow.ttf);
+}
+.page{
+    text-align: center;
+   
+}
+.page h1{
+    font-family: 'PokemonHollow';
+    
+}

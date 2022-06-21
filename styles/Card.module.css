@@ -1,0 +1,33 @@
+.card{
+    background-color: rgba(254, 255, 224, 0.658);
+    border: 1px solid #D60807;
+    box-shadow: 3px 3px 15px black;
+    color: black;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse; 
+    text-transform: capitalize;
+    border-radius: 25px;
+    padding: 5vh 4vw;
+    text-align: center;
+    margin-left: 1.8vw;
+    margin-bottom: 4.8vh;
+    transition: 0.8s;
+    
+}
+.card:hover{
+    cursor: pointer;
+    background-color: rgba(0, 255, 255, 0.5);
+    padding: 5.5vh 4.2vw;
+    margin-left: 1.6vw;
+    
+    
+}
+.card h4{
+    background-color: #D60807;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    padding: 5px;
+}

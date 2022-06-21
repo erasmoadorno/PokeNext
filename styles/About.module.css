@@ -1,0 +1,29 @@
+.about{
+    padding-top: 20px;
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+    background-color: #222;
+    padding-bottom: 60px;
+    
+}
+.about p{
+    
+    display: flexbox;
+}
+
+.text{
+    color: white;
+    padding-top: 60px;
+    width: 650px;
+    font-size: 1.04em;
+    text-align: justify;
+    margin: auto;
+    text-indent: 4em;
+    line-height: 1.6em;
+}
+.about a{
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}

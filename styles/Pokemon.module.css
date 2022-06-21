@@ -1,0 +1,134 @@
+@font-face {
+  font-family: "PokemonHollow";
+  src: url(../asset/fonts/pokemon/Pokemon\ Hollow.ttf);
+}
+@font-face {
+  font-family: "PokemonSolid";
+  src: url(../asset/fonts/pokemon/Pokemon\ Solid.ttf);
+}
+.pokemon {
+  text-align: center;
+  text-transform: capitalize;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+.title {
+  font-family: "PokemonHollow";
+  font-size: 2.2em;
+  background-color: #333;
+  color: white;
+  padding-bottom: 25px;
+  width: 400px;
+  border-radius: 15px;
+  margin: 0.8em auto;
+}
+
+.pokemon h3 {
+  margin-top: 20px;
+  margin-bottom: 2px;
+}
+.abilities {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 1px 10px;
+  box-shadow: 1px 1px 1px;
+  font-variant: small-caps;
+  background-color: #333;
+  color: white;
+}
+.info {
+  display: flexbox;
+  text-align: justify;
+  margin: auto;
+  text-transform: none;
+  width: 140px;
+  margin-top: 24px;
+}
+.info_font{
+  font-weight: bolder;
+  font-size: 1.17em;
+}
+
+.type {
+  text-transform: uppercase;
+  color: white;
+  border-radius: 5px;
+  background-color: black;
+  margin: 5px;
+  padding: 1px 15px;
+  border: 1px solid black;
+  box-shadow: 1px 1px 15px;
+}
+
+.type_normal {
+  background-color: #aa9;
+}
+
+.type_fire {
+  background-color: #f42;
+}
+
+.type_water {
+  background-color: #39f;
+}
+
+.type_eletric {
+  background-color: #fc3;
+}
+
+.type_grass {
+  background-color: #7c5;
+}
+
+.type_ice {
+  background-color: #6cf;
+}
+
+.type_fighting {
+  background-color: #b54;
+}
+
+.type_poison {
+  background-color: #a59;
+}
+
+.type_ground {
+  background-color: #db5;
+}
+
+.type_flying {
+  background-color: #89f;
+}
+
+.type_psychic {
+  background-color: #f59;
+}
+
+.type_bug {
+  background-color: #ab2;
+}
+
+.type_rock {
+  background-color: #ba6;
+}
+
+.type_ghost {
+  background-color: #66b;
+}
+
+.type_dragon {
+  background-color: #76e;
+}
+
+.type_dark {
+  background-color: #754;
+}
+
+.type_steel {
+  background-color: #aab;
+}
+
+.type_fairy {
+  background-color: #e9e;
+}
