@@ -21,4 +21,9 @@
     color: red;
     text-decoration: none;
     font-weight: bold;
+    transition: .6s;
+}
+.about a:hover{
+    color: aqua;
+    text-decoration: underline;
 }
