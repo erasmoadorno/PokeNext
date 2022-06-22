@@ -73,8 +73,9 @@
   background-color: #39f;
 }
 
-.type_eletric {
-  background-color: #fc3;
+.type_electric {
+  background-color: #ea1;
+  
 }
 
 .type_grass {
@@ -83,7 +84,7 @@
 
 .type_ice {
   background-color: #6cf;
-}
+  }
 
 .type_fighting {
   background-color: #b54;
