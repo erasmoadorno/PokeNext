@@ -1,21 +1,16 @@
 .about{
     padding-top: 20px;
-    display: flexbox;
     justify-content: center;
     text-align: center;
     background-color: #222;
     padding-bottom: 60px;
     
 }
-.about p{
-    
-    display: flexbox;
-}
 
 .text{
     color: white;
     padding-top: 60px;
-    width: 650px;
+    max-width: 650px;
     font-size: 1.04em;
     text-align: justify;
     margin: auto;
